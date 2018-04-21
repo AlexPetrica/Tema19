@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\lex\desktop\project1\project1\source.cpp(93): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lex\desktop\project1\project1\source.cpp(110): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lex\desktop\project1\project1\source.cpp(269): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lex\desktop\project1\project1\source.cpp(270): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lex\desktop\project1\project1\source.cpp(303): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lex\desktop\project1\project1\source.cpp(314): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Lex\Desktop\Project1\x64\Debug\Project1.exe
